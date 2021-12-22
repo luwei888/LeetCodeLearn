@@ -1,0 +1,16 @@
+C:\Users\luwei\.leetcode\cspj\bin\Debug\net5.0\cspj.exe
+C:\Users\luwei\.leetcode\cspj\bin\Debug\net5.0\cspj.deps.json
+C:\Users\luwei\.leetcode\cspj\bin\Debug\net5.0\cspj.runtimeconfig.json
+C:\Users\luwei\.leetcode\cspj\bin\Debug\net5.0\cspj.runtimeconfig.dev.json
+C:\Users\luwei\.leetcode\cspj\bin\Debug\net5.0\cspj.dll
+C:\Users\luwei\.leetcode\cspj\bin\Debug\net5.0\ref\cspj.dll
+C:\Users\luwei\.leetcode\cspj\bin\Debug\net5.0\cspj.pdb
+C:\Users\luwei\.leetcode\cspj\obj\Debug\net5.0\cspj.csproj.AssemblyReference.cache
+C:\Users\luwei\.leetcode\cspj\obj\Debug\net5.0\cspj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luwei\.leetcode\cspj\obj\Debug\net5.0\cspj.AssemblyInfoInputs.cache
+C:\Users\luwei\.leetcode\cspj\obj\Debug\net5.0\cspj.AssemblyInfo.cs
+C:\Users\luwei\.leetcode\cspj\obj\Debug\net5.0\cspj.csproj.CoreCompileInputs.cache
+C:\Users\luwei\.leetcode\cspj\obj\Debug\net5.0\cspj.dll
+C:\Users\luwei\.leetcode\cspj\obj\Debug\net5.0\ref\cspj.dll
+C:\Users\luwei\.leetcode\cspj\obj\Debug\net5.0\cspj.pdb
+C:\Users\luwei\.leetcode\cspj\obj\Debug\net5.0\cspj.genruntimeconfig.cache
